@@ -1,0 +1,17 @@
+{
+    "name": "lara-pack/repository",
+    "description": "Laravel Repository Concept",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LaraPack\\Repository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bhagaskara",
+            "email": "bhagaskaraliancer@gmail.com"
+        }
+    ],
+    "require": {}
+}
